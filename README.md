@@ -83,7 +83,7 @@ Update the package lists and install the core components:
 
 ``` bash
 opkg update
-opkg install luci-app-statistics luci-app-sqm adguardhome
+opkg install luci-app-statistics luci-app-sqm adguardhome e2fsprogs
 ```
 
 ------------------------------------------------------------------------
