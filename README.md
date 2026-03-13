@@ -24,8 +24,7 @@ low-cost device.
 -   Connect the router to power and plug your PC into the LAN port.
 -   Navigate to:
 
-```{=html}
-<!-- -->
+``` bash
 ```
     http://192.168.8.1
 
