@@ -124,6 +124,8 @@ Configuration:
 ### Upstream DNS
 
     https://dns.cloudflare.com/dns-query
+    https://dns.google/dns-query
+    tls://dns.quad9.net
 
 for encrypted (DoT) lookups.
 
